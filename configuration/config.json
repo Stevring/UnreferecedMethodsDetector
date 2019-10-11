@@ -1,0 +1,8 @@
+{
+  "macho_file": "~/Library/Developer/Xcode/DerivedData/abc-aoojzbahsmvidhhdronltgubuzgc/Build/Products/AwemeInhouseDebug-iphoneos/AwemeInhouse.app/AwemeInhouse",
+  "linkmap_file": "~/Documents/Projects/abc/Aweme/Aweme/Aweme-LinkMap.txt",
+  "ignore_method_file": "configuration/ignore_methods",
+  "ignore_class_file": "configuration/ignore_class",
+  "pod": "AWEStudio-Pods",
+  "output_file": "./unreferenced.json"
+}

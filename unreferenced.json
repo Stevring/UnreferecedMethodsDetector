@@ -1,0 +1,501 @@
+{
+    "AWEPublishUploadStage": [
+        "uploadVideoProgressDidUpdate:",
+        "uploadGetString:",
+        "eventManagerDidUpdate:",
+        "uploadVideoDidFinish:error:",
+        "uploadVideoCheckIfNeedTry:tryCount:"
+    ],
+    "AWETTVideoUploadService": [
+        "uploadVideoProgressDidUpdate:",
+        "uploadGetString:",
+        "eventManagerDidUpdate:",
+        "uploadVideoDidFinish:error:",
+        "uploadVideoCheckIfNeedTry:tryCount:"
+    ],
+    "ACCRecordFlowComponent": [
+        "recorderController"
+    ],
+    "ACCRecordSwitchModeComponent": [
+        "autoInjectPropertyDictionaryOfsplitTipComponent",
+        "updateCurrentSelection"
+    ],
+    "AWEStudioModuleService": [
+        "prefetchStudioResource",
+        "createMVVideoWithAweme:withInfo:completion:",
+        "isRecordingStory",
+        "shouldUseOnlineEffectChannel",
+        "stickerPickerWithPanelType:delegate:",
+        "createStickerVideoWithAweme:completion:",
+        "exitRecorder",
+        "removeStickerUnlockAlertKey",
+        "createVideoWithOrderShare:",
+        "storyControllerWithPublishModel:slideInParams:",
+        "createMVVideoWithMVID:info:completion:",
+        "createVideoWithStickerID:completion:"
+    ],
+    "AWEAnimatedRecordLayer": [
+        "startHollowOutAnimationWithRatio:duration:",
+        "startColorChangeAnimationWithColor:duration:",
+        "startScaleAnimationWithScale:duration:",
+        "startBreathAnimationWithFromRatio:toRatio:duration:",
+        "createCornerRadiusAnimationWithCornerRadius:duration:"
+    ],
+    "AWEVideoNewPublishViewController": [
+        "shouldSyncToHelo",
+        "textView:shouldChangeTextInRange:replacementText:",
+        "p_publishCheckPrivatePolicyStatus",
+        "textViewDidChangeSelection:",
+        "shouldSyncToTwitter"
+    ],
+    "AWEAIVideoClipViewController": [
+        "clippedDurationForIndex:",
+        "assetModelAtIndexPath:",
+        "convertVideoRangeSliderActualPositionWithTime:duration:",
+        "AIVideoClipFooterViewController:reloadWithVideoData:needsReloadData:"
+    ],
+    "AWEVideoSegmentedClipViewController": [
+        "clippedDurationForIndex:",
+        "validClipRangeDuration"
+    ],
+    "AWEASSSearchEmptyView": [
+        "showInfoLabels:title:content:"
+    ],
+    "AWEPartyModeBubble": [
+        "animationDidStop:finished:",
+        "initWithContent:anchorPoint:suggestSize:direction:",
+        "initWithContent:anchorPoint:suggestSize:screenEdgeInsets:direction:",
+        "initWithContent:anchorPoint:direction:"
+    ],
+    "AWEStoryRecordAnimationView": [
+        "animationDidStop:finished:",
+        "shrinkOutterWhite",
+        "expandInnerWhite",
+        "hideCircleLayer"
+    ],
+    "AWEVideoDraftViewController": [
+        "animationDidStop:finished:",
+        "tableView:canEditRowAtIndexPath:",
+        "tableView:willDisplayHeaderView:forSection:",
+        "tableView:editingStyleForRowAtIndexPath:",
+        "tableView:didDeselectRowAtIndexPath:",
+        "tableView:editActionsForRowAtIndexPath:"
+    ],
+    "AWEAnimatedRecordButton": [
+        "animationDidStop:finished:"
+    ],
+    "AWEVideoGameCameraContainerView": [
+        "animationDidStop:finished:"
+    ],
+    "AWEGalleryBaseViewController": [
+        "photoLibraryDidChange:",
+        "p_totalDurationStringWithSecond:"
+    ],
+    "AWEModernUploadViewController": [
+        "photoLibraryDidChange:"
+    ],
+    "AWEMattingView": [
+        "photoLibraryDidChange:"
+    ],
+    "AWELandmarkARLocation": [
+        "getLocationInfo",
+        "getLocationAutorStatus"
+    ],
+    "AWEAVMutableCompositionBuilder": [
+        "videoComposition:shouldContinueValidatingAfterFindingEmptyTimeRange:",
+        "videoComposition:shouldContinueValidatingAfterFindingInvalidValueForKey:",
+        "videoComposition:shouldContinueValidatingAfterFindingInvalidTimeRangeInInstruction:",
+        "videoComposition:shouldContinueValidatingAfterFindingInvalidTrackIDInInstruction:layerInstruction:asset:",
+        "actualDuration",
+        "scaleDurationForAsset:",
+        "getImagesWithTimeArray:oneByOneImageBlock:"
+    ],
+    "AWEASSSelectMusicViewController": [
+        "readLocalFileWithName:",
+        "tableView:didEndDisplayingCell:forRowAtIndexPath:"
+    ],
+    "AWEMVTemplateCell": [
+        "videoEngineReadyToPlay:",
+        "noVideoDataToDownloadForKey:",
+        "videoEngine:retryForError:",
+        "videoEngineReadyToDisPlay:",
+        "didFinishVideoDataDownloadForKey:",
+        "videoEngine:loadStateDidChanged:",
+        "videoEngine:playbackStateDidChanged:"
+    ],
+    "AWEPixaloopGuideView": [
+        "videoEngineReadyToPlay:",
+        "noVideoDataToDownloadForKey:",
+        "videoEngine:retryForError:",
+        "videoEngineReadyToDisPlay:",
+        "didFinishVideoDataDownloadForKey:",
+        "videoEngine:loadStateDidChanged:",
+        "videoEngine:playbackStateDidChanged:"
+    ],
+    "AWESecondKillAdModel": [
+        "jumpURLString",
+        "picURL"
+    ],
+    "AWEAIVideoClipManager": [
+        "generateRandomAIVideoClipWithMusic:appendVideoAssets:completion:",
+        "moveVideoFromIndex:toIndex:completion:",
+        "p_showDebugToastForVEResult:",
+        "p_showDebugToastForBeatsType:"
+    ],
+    "AWENewPublishGoodsTableCell": [
+        "isDisable",
+        "updateAccessLableText:"
+    ],
+    "AWENewPublishLocationTableViewCell": [
+        "isDisable",
+        "addGradientBackGround"
+    ],
+    "AWEModernUploadVCDragManager": [
+        "addUploadDragGestureForViewController:",
+        "showHalfScreenUploadViewControllerAnimated:",
+        "isUploadViewControllerShowOnScreen",
+        "panGestureDragged:",
+        "showUploadViewControllerAnimated:"
+    ],
+    "AWEPublishUploadPhotoStage": [
+        "uploadImageDidFinish:error:",
+        "eventManagerDidUpdate:",
+        "uploadImageCheckIfNeedTry:tryCount:",
+        "uploadImagesDidFinish",
+        "uploadImageProgressDidUpdate:fileIndex:"
+    ],
+    "AWETTFramesZipUploadService": [
+        "uploadImageDidFinish:error:",
+        "eventManagerDidUpdate:",
+        "uploadImageCheckIfNeedTry:tryCount:",
+        "uploadImagesDidFinish",
+        "uploadImageProgressDidUpdate:fileIndex:"
+    ],
+    "AWETTPhotoUploadService": [
+        "uploadImageDidFinish:error:",
+        "eventManagerDidUpdate:",
+        "uploadImageCheckIfNeedTry:tryCount:",
+        "uploadImagesDidFinish",
+        "uploadImageProgressDidUpdate:fileIndex:"
+    ],
+    "AWEPhotoNewPublishViewController": [
+        "textView:shouldChangeTextInRange:replacementText:"
+    ],
+    "AWEPollStickerEditView": [
+        "textView:shouldChangeTextInRange:replacementText:",
+        "setCanOperate:"
+    ],
+    "AWEPollStickerView": [
+        "textView:shouldChangeTextInRange:replacementText:"
+    ],
+    "AWEPublishTitleTextViewController": [
+        "textView:shouldChangeTextInRange:replacementText:"
+    ],
+    "AWEPureVideoUploadManager": [
+        "initWithVideoUrl:",
+        "startUploadWithCompletion:"
+    ],
+    "ACCRecordSpeedControlComponent": [
+        "backupCurrentRecordSpeed",
+        "recoverRecordSpeed"
+    ],
+    "AWEVideoEditStickersViewController": [
+        "searchBarSearchButtonClicked:"
+    ],
+    "ACCGameComponent": [
+        "pauseGame",
+        "resumeGame",
+        "endGame",
+        "didFetchPropList:"
+    ],
+    "AWEToolLogBridge": [
+        "IESEditorlogToLocal:andLevel:",
+        "IESEditorlogToFrabic:"
+    ],
+    "ACCRecordButtonComponent": [
+        "showMixRecordButtonTips"
+    ],
+    "AWEUploadResourceTabView": [
+        "clickByCodeWithTabNum:",
+        "hideBottomLine:",
+        "initWithEliteVersion:"
+    ],
+    "ACCMeasureComponent": [
+        "setLifeCycleDataForDictionary:suffixName:beginTimeInterval:endTimeInterval:",
+        "recordTimeIntervalWithSuffixName:timeInterval:relateToLifeCycleStage:"
+    ],
+    "AWEVideoSegmentedClipAdapter": [
+        "backupSourceAssetModelArray",
+        "restoreSourceAssetModelArray"
+    ],
+    "AWEPhotoStickerViewModel": [
+        "setTranslation:",
+        "updateWithRotation:"
+    ],
+    "ACCBeautyFeatureComponent": [
+        "msg_willApplySticker:",
+        "recorderController"
+    ],
+    "AWEPlayerEditAndPublishViewController": [
+        "setStickerHintView:",
+        "textStickerImage"
+    ],
+    "AWEGalleryVideoBottomChoosedCollectionViewCell": [
+        "beBigger:",
+        "updateWithAssetModel:coverImage:"
+    ],
+    "AWEPhotoStickerModel": [
+        "updateWithOffset:inContainer:imageSize:croppedRect:scale:"
+    ],
+    "AWEVideoCropViewController": [
+        "initWithVideoURL:",
+        "preferredScreenEdgesDeferringSystemGestures"
+    ],
+    "ACCFilterSwitchComponent": [
+        "refreshWithFilterArray:"
+    ],
+    "AWECameraFilterConfiguration": [
+        "setSmoothLevel:",
+        "setReshapeLevel:",
+        "faceLiftValue",
+        "smoothLevel",
+        "reshapeLevel",
+        "setFaceLiftValue:"
+    ],
+    "AWEPublishResultHandler": [
+        "shareAweme:fromModel:",
+        "awemeFromCurrentTask"
+    ],
+    "AWEACCAnimatedTransitioningImpl": [
+        "bigToSmallDismissAnimation",
+        "bigToSmallPresentAnimation"
+    ],
+    "AWEVideoEffectView": [
+        "updateWithType:effects:effectCategory:"
+    ],
+    "AWEStoryRecordViewController": [
+        "insertStickersForCategory:"
+    ],
+    "AWELyricRollingTextView": [
+        "pauseAnimating",
+        "resumeAnimating"
+    ],
+    "AWEAIVideoClipFooterViewController": [
+        "p_speedAction:",
+        "isInVideoSegmentsEditing"
+    ],
+    "AWEVideoRangeSlider": [
+        "hiddenVideoIndicator",
+        "trimIntervalStr"
+    ],
+    "AWEStudioVideoPublishHelper": [
+        "p_publishCheckPrivatePolicyStatus",
+        "initWithTaskV2:StartPublishBlock:endPublishBlock:",
+        "initWithStartPublishBlock:endPublishBlock:"
+    ],
+    "AWEChallengeMusicHeaderView": [
+        "initWithAuthorName:"
+    ],
+    "AWEVideoPublishViewModel": [
+        "totalFrames",
+        "setCurrentInteractionModel:"
+    ],
+    "AWEStoryBackgroundTextView": [
+        "setCanOperate:"
+    ],
+    "AWEModernStickerCollectionViewCell": [
+        "accessibilityElementDidBecomeFocused"
+    ],
+    "AWEModernStickerTitleCollectionViewCell": [
+        "accessibilityElementDidBecomeFocused"
+    ],
+    "AWECenteredScrollFlowLayout": [
+        "shouldInvalidateLayoutForBoundsChange:",
+        "targetContentOffsetForProposedContentOffset:withScrollingVelocity:"
+    ],
+    "AWEMVTemplateCollectionViewLayout": [
+        "shouldInvalidateLayoutForBoundsChange:",
+        "targetContentOffsetForProposedContentOffset:withScrollingVelocity:"
+    ],
+    "AWEStoryTextContainerView": [
+        "endSelectTimeForTextView",
+        "recoverDraftInteractionStickerWithModel:"
+    ],
+    "AWEAssetModel": [
+        "setImageArrayForSpeed:imageArray:",
+        "getImageArrayForSpeed:",
+        "setImageArrayForIndex:imageArray:"
+    ],
+    "AWEASSelectMusicChallengeHeaderView": [
+        "configWithAuthorName:"
+    ],
+    "AWEACCResourceImpl": [
+        "studioBundle",
+        "studioAnimationNamed:"
+    ],
+    "AWESegmentedClipFooterView": [
+        "isInVideoSegmentsEditing"
+    ],
+    "AWEPhotoEditorCropAndRotateViewController": [
+        "preferredScreenEdgesDeferringSystemGestures"
+    ],
+    "AWETTFileUploadService": [
+        "eventManagerDidUpdate:"
+    ],
+    "AWEACCSettingsImpl": [
+        "goodsOrderShareIntroH5URL",
+        "videoCompose",
+        "videoCommit"
+    ],
+    "AWEBeautySlideControlView": [
+        "configWithSliderStyleArray:useImageIcon:",
+        "configWithConfiguration:"
+    ],
+    "AWEAddWikiWebViewController": [
+        "webView:didFailNavigation:withError:",
+        "webView:didCommitNavigation:"
+    ],
+    "AWEACCENVImpl": [
+        "currentEnv"
+    ],
+    "AWEACCNetServiceImpl": [
+        "uploadWithModel:progress:completion:",
+        "downloadWithModel:progressBlock:completion:"
+    ],
+    "AWEBeautifyEffectSettings": [
+        "updateValuesFor:settings:"
+    ],
+    "AWEActivityStickerContainerView": [
+        "recoverDraftInteractionStickerWithModel:",
+        "restrictEditedView",
+        "fixEditViewAdsorbing:"
+    ],
+    "AWEBigToSmallDismissAnimation": [
+        "animateTransition:"
+    ],
+    "AWEBigToSmallPresentAnimation": [
+        "animateTransition:"
+    ],
+    "AWEAIVideoClipMusicSelectView": [
+        "collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+    ],
+    "AWEEditRightTopVerticalActionContainerView": [
+        "initialScrollViewXWithMoreButton"
+    ],
+    "AWEEditView": [
+        "addGradientWithTopColor:bottomColor:height:y:"
+    ],
+    "AWEMusicCategoryCollectionViewCell": [
+        "test"
+    ],
+    "AWENewPublishCommentsSwitchCell": [
+        "addGradientBackGround"
+    ],
+    "AWENewPublishTableCell": [
+        "addGradientBackGround"
+    ],
+    "AWEPhotoEditorModel": [
+        "processImage:stickersForContainerSize:completion:",
+        "displayRectOnView:",
+        "initialInsetInContainer:"
+    ],
+    "AWEPhotoMovieMusicItemView": [
+        "setMusicBackgroundColor:"
+    ],
+    "AWEPhotoMusicEditorViewController": [
+        "collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+    ],
+    "AWEPrivateSelectViewController": [
+        "tableView:willSelectRowAtIndexPath:"
+    ],
+    "AWEPublishPrivacyControllCell": [
+        "hideSeparateLine"
+    ],
+    "AWEPublishPrivacyController": [
+        "tableView:willSelectRowAtIndexPath:",
+        "p_personalCells"
+    ],
+    "AWERecordFilterOriginViewController": [
+        "updateStickerContainerViewFrame:",
+        "initWithFilterArray:"
+    ],
+    "AWESelectMusicIndicatorView": [
+        "configWithMusicName:"
+    ],
+    "AWESelectMusicNavView": [
+        "updateVideoNextTitleWithVideoCount:enabled:"
+    ],
+    "AWESelectMusicViewController": [
+        "initWithType:showUploadPanel:"
+    ],
+    "AWEStoryEditAndPublishViewController": [
+        "textStickerImage"
+    ],
+    "AWEStudioMarkView": [
+        "setMarkTextOpacity:"
+    ],
+    "AWEVideoCameraContainerOriginView": [
+        "configWithParameter:"
+    ],
+    "AWEVideoEditorPlayerService": [
+        "player:didFailedToPlayVideoWithData:"
+    ],
+    "AWEVideoEditStickerCollectionViewController": [
+        "collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+    ],
+    "AWEVideoPublishMusicSelectView": [
+        "collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+    ],
+    "AWEVoiceChangerItemView": [
+        "setCoverBackgroundColor:"
+    ],
+    "HTSVideoSoundEffectPanelView": [
+        "setBGMLabelTitle:"
+    ],
+    "ACCAudioClipComponent": [
+        "updateAudioBarTimeWithTime:"
+    ],
+    "AWEAnimatedRecordShapeLayer": [
+        "createCornerRadiusAnimationWithCornerRadius:duration:"
+    ],
+    "AWEAudioClipView": [
+        "shouldUseBarView:"
+    ],
+    "AWEModernStickerSwitchTabView": [
+        "collectionView:shouldSelectItemAtIndexPath:"
+    ],
+    "AWEModernStickerViewController": [
+        "collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+    ],
+    "AWEMojiEffectManager": [
+        "scanStatusWithMD5:"
+    ],
+    "AWERecordLoadingView": [
+        "audioPlayerDidFinishPlaying:successfully:"
+    ],
+    "AWEStickerDataManager": [
+        "isTypeForCheckCache"
+    ],
+    "AWESwitchRecordModeView": [
+        "collectionView:shouldSelectItemAtIndexPath:"
+    ],
+    "AWETabButtonsWrapperView": [
+        "initWithTabNames:"
+    ],
+    "AWETabControlledCollectionWrapperView": [
+        "collectionView:viewForSupplementaryElementOfKind:atIndexPath:"
+    ],
+    "TTNetResourceLoaderDelegate": [
+        "resourceLoader:didCancelLoadingRequest:",
+        "resourceLoader:shouldWaitForLoadingOfRequestedResource:requestTimeout:"
+    ],
+    "AWEStudioCustomCloudCommandVESDKLog": [
+        "excuteCommandWithParams:completion:"
+    ],
+    "AWEACCMainServiceImpl": [
+        "shouldForbidWartermarkWhenDownloadVideo"
+    ],
+    "AWEACCTransitioningDelegateImpl": [
+        "bigToSmallModalDelegate"
+    ]
+}

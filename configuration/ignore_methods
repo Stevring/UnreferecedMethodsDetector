@@ -1,0 +1,6 @@
+autoInjectComponentDictionary.*
+.cxx_destruct
+.*JSONTransformer
+defaultBindingClassOf.*
+searchBarTextDidBeginEditing.*
+textViewDid(Begin|End)Editing.*
