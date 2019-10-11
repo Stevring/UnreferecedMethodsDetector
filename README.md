@@ -1,2 +1,2 @@
-# UnreferecedMethodsDetector
-unrefereced methods detector for ios projects.
+# UnreferencedMethodsDetector
+unreferenced methods detector for ios projects.
